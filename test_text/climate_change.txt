@@ -1,0 +1,430 @@
+EPJ Web of Conferences 246, 00002 (2020) https://doi.org/10.1051/epjconf/202024600002
+Joint EPS-SIF International School on Energy 2019
+A short history of climate change
+Dirk Notz
+Institute for Marine Research, University of Hamburg and Max Planck Institute for Meteorology
+Hamburg, Germany
+Summary. — The flux of energy through the climate system determines the living
+conditions of our planet. In this contribution, I outline the main processes regulating
+this flux of energy, how these processes have changed throughout Earth history,
+and how today they are changing by human activities, in particular by activities
+related to energy production. The changes in the climate state of our planet, which
+have been ongoing ever since the formation of the Earth some 5 billion years ago,
+have shaped the world we live in today. Yet, today’s climate change is special in
+two overarching ways. First, it is the first time that a major climate change is
+globally affecting a civilisation that is perfectly adapted to thousands of years of
+stable climate conditions. Second, today’s climate change is occurring at a rate
+much faster than preceding natural climate changes. In combination, these two
+factors make today’s climate change a unique challenge to humankind, with direct
+consequences of future energy production as outlined in the other contributions to
+this volume.
+1. – Introduction
+About 5 billion years ago, in some random location of our universe, a star was created
+by some random fluctuation of interstellar matter. A star, not very special, not very big,
+a star just like millions and millions of other stars that have come and gone throughout
+the existence of our universe. And yet, there was something special about this star: next
+to it, a planet formed whose properties allowed for the existence of liquid water. And
+this liquid water made this planet a unique place: The only known location of the entire
+universe that we know for sure is carrying life today.
+© The Authors, published by EDP Sciences. This is an open access article distributed under the terms of the Creative Commons Attribution License 4.0
+(http://creativecommons.org/licenses/by/4.0/).
+EPJ Web of Conferences 246, 00002 (2020) https://doi.org/10.1051/epjconf/202024600002
+Joint EPS-SIF International School on Energy 2019
+The liquid water on this planet owes its existence to a perfectly fitting combination
+of the main factors that determine the planet’s temperature: First, the net amount of
+shortwave radiation around the wavelength of visible light that the planet receives from
+its central star. Second, the amount of longwave radiation (or heat radiation) that the
+planet’s surface receives from its atmosphere. By changing either of these two factors,
+the climate of this planet has changed throughout the history of its existence. In this
+contribution, I will outline these changes in some detail and put them into the context of
+today’s climate change on this planet, our Earth, whose stable climate condition over the
+past thousands of years have been crucial for the development of our human civilisation.
+I will start with a short overview of the functioning of the climate system of our planet,
+will then move on to briefly outline some of the past changes of the mean climate state,
+and will finally describe the climate change that we humans are causing today and its
+possible implications for the future.
+2. – The climate system of our planet
+The functioning of the climate system of our planet is governed by the flux of energy,
+with three specific fluxes being most important: First, the flux of energy from the sun
+to the Earth. Second, the reflection of some of this energy. And third, the flux of energy
+from the atmosphere to the surface and to outer space (fig. 1).
+In thermal equilibrium, the energy that the Earth receives from the sun must be
+balanced by an equal loss of energy from the Earth to space. On average, the Earth
+receives today across its cross section about 1360 W/m2 of energy from the sun. Because
+the surface area of the Earth is four times as large as its cross section, each square
+meter of the Earth’s surface receives on average about 340 W of energy from the sun,
+primarily as so-called shortwave radiation, which describes radiation with wavelengths
+in the visible, near-infrared and near-ultraviolet spectra.
+About a third of this energy is reflected back to space by clouds and the Earth’s
+surface. Their reflectivity is referred to as albedo, which varies widely depending on
+surface and cloud conditions. For example, the albedo of the open ocean can be below
+10%, i.e. more than 90% of the incoming solar radiation is absorbed. In contrast, the
+albedo of freshly fallen snow can be above 80%, implying that only 20% of the incoming
+solar radiation is absorbed with the remainder being reflected to space.
+With about a third of the incoming 340 W/m2 being reflected to space, slightly more
+than 200 W/m2 of energy must leave the Earth by other means to achieve thermal equi-
+librium. These “other means” are achieved by the Earth radiating heat, or long-wave
+radiation to space. To radiate about 200 W/m2, according to the Stefan Boltzmann law,
+a body must have a temperature of about −18 ◦C. Without an atmosphere, this would
+be the surface temperature of our planet if its albedo were the same as today. In reality,
+however, without an atmosphere the temperature of the planet would be much lower than
+this number, because it would be frozen over and reflect most incoming solar radiation
+directly back to space.
+
+Fig. 1. – The average energy budget of the Earth.
+However, because the Earth has an atmosphere that is able to emit long-wave radi-
+ation, the temperature of −18◦ that is necessary to compensate for the incoming solar
+radiation is not manifested at the Earth surface, but instead at some higher level in the
+atmosphere. Hence, in the longwave spectrum, seen from outer space one does not see
+the temperature of the Earth surface, but instead the temperature of the atmosphere at
+some level high above the ground.
+The fact that the atmosphere is not translucent for long-wave radiation, but instead
+is able to emit long-wave radiation itself, is primarily owing to the existence of so
+called trace gases in the atmosphere. The main atmospheric constituents, i.e. nitrogen
+(78%), oxygen (21%) and argon (0.93%) barely interact with radiation in the long
+wave spectrum. Hence, by far most of the emission of the atmosphere in the long wave
+spectrum stems from radiatively active trace gases, in particular water vapour, carbon
+dioxide and methane.
+Because of the existence of these trace gases in the atmosphere, the surface tempera-
+ture of our planet is today about 14 to 15 ◦C rather than −18 ◦C, because the trace gases
+do not only radiate energy upwards into space, but also downward to the surface. The
+best known manifestation of this heat radiation from the atmosphere is experienced at
+night time, where a clear night is much colder than a cloudy night because a cloudy at-
+mosphere radiates more heat towards the surface. But even without clouds, the fact that
+our planet’s surface temperature during night does not drop to outer space conditions is
+primarily achieved through the longwave radiation from the atmosphere to the surface.
+
+While this description is slightly simplified, it nevertheless allows us to understand
+the three main processes by which the climate conditions of our planet can be changed.
+First, by changes in incoming solar radiation. Second, by changes in the planetary albedo
+and thus by changes in outgoing solar radiation. And third, by changes in atmospheric
+condition that changes the upward and downward flux of longwave radiation through the
+atmosphere. Throughout the history of our planet, these three factors have always been
+changing. Hence, climate change is as old as the history of the Earth, as described in
+the following. Understanding such natural climate change is crucial for appreciating the
+uniqueness of today’s man-made climate change that we focus on afterwards.
+3. – Climate change throughout Earth’s history
+Since the formation of the Earth some 5 billion years ago, the factors determining
+its climate state have been changing repeatedly. For example, the young sun was shin-
+ing about 30% weaker than it does today, limiting the amount of shortwave radiation
+reaching the Earth. Nevertheless, the young Earth was sufficiently warm to allow for the
+existence of liquid water. The necessary warming possibly came from a greater amount
+of greenhouse gases in the atmosphere compared to today, but the “faint-sun” problem
+is not finally settled [1].
+Some billion years later, in contrast, the Earth was much colder than it is today. There
+is ample evidence that about 650 million years ago, the Earth was covered in ice for many
+million years (e.g., [2]). A key factor in reaching this state was probably the fact that the
+location of most land masses was much closer to the equator than it is today. Because
+of this, land on average received more precipitation. This, in turn, caused increased
+weathering of rock, binding atmospheric carbon dioxide as lime. Hence, the atmospheric
+concentration of greenhouse gases decreased, the Earth cooled, and froze over more and
+more. Once substantial amounts of ice had formed, the increasing reflection of incoming
+sun light caused further cooling and more ice formation, perpetuating the snowball-state
+most likely for many million years. At some point, however, the Earth was able to warm
+again, possibly through the emission of greenhouse gases from volcanic eruption, the ice
+cover decreased, less sun light was reflected, and the snowball period ended.
+Later in Earth’s history, our planet was much warmer than it is today. For example,
+some hundred million years ago, when dinosaurs were dominating the biosphere, global
+average temperature was about 14 ◦C higher than today. Such warm temperature was
+primarily related to much higher atmospheric carbon dioxide concentration, and the
+absence of any reflective ice or snow cover (e.g., [3]). While the precise concentration
+of carbon dioxide is still being debated, it most likely was higher than 1000 parts per
+million, compared to 280 parts per million 200 years ago and around 400 parts per million
+today. Levels of CO concentration exceeding 1000 parts per million are still experienced
+2
+today —namely in indoor setting with poor ventilation. CO concentrations above this
+2
+1000 ppm are usually considered as a threshold for poor performance, and should hence
+be avoided in offices and schools. Nevertheless, physiologically, humans can survive such
+high CO concentration in principle.
+2
+4
+5°C
+0°C
+-5°C
+-10°C
+300
+250
+200
+150
+400.000 300.000 200.000 100.000 0
+ylamona
+erutarepmeT
+noitartnecnoc-
+OC
+
+warm interglacials
+glacial periods
+Years before present
+Fig. 2. – Fluctuations of Earth temperature and atmospheric CO concentration over the past
+2
+400000 years, from the Vostock ice core.
+Since that hot period 100 million years ago, CO concentration in the Earth atmo-
+2
+sphere has slowly decreased, causing a slow cooling of our planet. The cooling caused
+the formation of ice sheets in the Antarctic probably some 50 million years ago and in
+the Northern hemisphere some 10 million years ago. These ice masses then reflected sun
+light and caused some additional cooling of the Earth climate. Around 1.5 million years
+ago, the cooling of our planet then finally initiated the so-called ice-age cycle, which
+caused the Earth’s climate to fluctuate quite regularly between periods of wide-spread
+coverage of high latitudes with glaciers during an ice age, and intermediate periods with
+retreating glaciers and warmer temperatures such as today’s Holocene period (fig. 2).
+We have very reliable measurements of these fluctuations from ice cores in Greenland
+and in the Antarctic. Both these ice sheets have formed from snow, such as any other
+glacier. If temperatures are sufficiently low for the snow to never melt, over long periods
+the snow cover eventually becomes so thick that it is transformed into ice from the
+pressure of its own weight. Hence, if one stands on top of, say, Greenland and drills into
+depth, the ice that one drills through has formed from snow that fell hundred years ago,
+thousand years ago, hundred thousand years ago. In the ice, still bubbles of air from
+that period are enclosed, whose analysis allows scientists to reconstruct time series of
+atmospheric composition. An analysis of the isotopic composition of the ice, in turn,
+allows for a reconstruction of atmospheric temperature, as in cold conditions a higher
+fraction of lighter water isotopes will be contained in the ice core.
+The temperature fluctuations that were identified this way are today understood as
+being a direct consequence of all the three main factors that influence the climate of
+
+the Earth. First, the orbit of the Earth around the sun fluctuates regularly, causing
+northern hemisphere summer temperatures to be, for example, slightly colder roughly
+every hundred thousand years. Because of these cool summers, glaciers on land in the
+northern hemisphere will slightly expand, causing some extra cooling. Because of this
+cooling, the oceans become colder as well. Cold water, however, can absorb more carbon
+dioxide than warm water, and the oceans will take up carbon dioxide from the atmo-
+sphere to maintain chemical equilibrium. This then causes a drop in atmospheric CO
+2
+concentration, which causes additional cooling, further expansion of glaciers and more
+reflection of solar radiation. The Earth enters an ice age. At some point, the Earth’s
+orbit has changed again, solar radiation during summer in the Northern hemisphere in-
+creases slightly, glaciers retreat, the Earth warms, and the oceans release carbon dioxide
+into the atmosphere. Because the oceans are warmed at their surface, they are stably
+stratified, and their warming and the accompanying release of carbon dioxide into the
+atmosphere occur much faster than the initial uptake. This is one explanation for why
+ending an ice age usually occurs much faster than its onset.
+This brief overview just goes to illustrate that climate change has been a constant
+companion of our planet. We could not understand the world as it looks today without
+these past changes. Nevertheless, today’s climate change is unique in many ways, as we
+will see in the following.
+4. – Today’s climate change
+As we have just seen, climate change has always occurred throughout the history of
+our planet. It is hence quite unusual that for the past 10000 years, the climate conditions
+of the Earth were very stable, as we see for example from ice core records in Greenland
+(fig. 3). This period of stable conditions was used by humans to develop their modern
+civilisation: about 5000 years ago, humans slowly moved from the Stone Age to the
+Bronze Age, and then trough the Iron Age towards our modern civilisation. Much of this
+development was only possible because the climatic boundary conditions were compara-
+bly stable. Hence, large cities could develop with their location being compatible with
+the sea-level associated to this stable climate. Agriculture could develop because the
+large-scale patterns of precipitation and temperature were comparably stable. The kind
+of houses people lived in, their trade routes, the number of people that could live in a
+given community etc. are all condition to climate conditions. And because these climate
+conditions were stable, civilisation was able to develop largely undisturbed globally. Re-
+gionally, changes in climate have most likely repeatedly contributed to the disappearance
+of ancient cultures, but globally the development of civilisation was able to continue.
+Hence, a major distinguishing feature of the ongoing climate change is the fact that
+for the first time, all of our human civilisation is globally affected by a large scale climate
+change of a magnitude unknown throughout the past 10000 years of human development.
+The ongoing climate change is an experiment to understand how a civilisation that was
+able to develop without major climate change for thousands of years will react if it
+suddenly is exposed to a rapid shift in climate conditions, occurring over the period of
+just a few decades.
+Years before present
+dnalneerG
+ni
+erutarepmeT
+
+-25°C
+-30°C
+-35°C
+-40°C
+-45°C
+-50°C
+-55°C
+50.000 40.000 30.000 20.000 10.000 100
+Fig. 3. – Fluctuations of the temperature in Greenland over the past 50000 years, from the
+GISP2 ice core.
+This, in turn, is the second distinguishing feature of modern climate change: The
+rapidity of the ongoing warming and of the ongoing rise in atmospheric carbon dioxide
+conditions, both occurring much faster than the natural changes of the past millions of
+years, in particular as the changes today appear on a global scale. Hence, while eco
+systems have often been able to adapt to the slow changes of the past, it is unclear how
+they can adapt to the rapid changes that we humans are causing today. Note that region-
+ally, rapid changes have occurred in the past. For example, the North-Atlantic region
+has been influenced by so-called Dansgaard-Oeschger events that cause the temperature
+fluctuations in the Greenland temperature record shown in fig. 3.
+The fact that climate change is occurring is clear. For example, the global temperature
+of the past five years was the highest since the beginning of the instrumental record. The
+extent of sea ice in the Arctic Ocean in the past few years has been the lowest since
+most likely at least 1000 years. The melting of glaciers is accelerating, which indicates
+that this melt is no longer just a response to the slow ending of the past ice age, but
+is to a substantial degree driven by the ongoing warming of our planet. Sea level is
+rising faster and faster, currently at a rate of about 4 millimetres per year. Permafrost
+is melting, spring snow coverage decreases (see [4] for all the above). Taken together, all
+these indicators clearly show that the climate of our planet is changing rapidly.
+However, given that climate change has always occurred even before the existence of
+human civilisation, how can we be so sure that most of this change is caused by human ac-
+tivities? The answer is very simple: We can be so sure because there is an overwhelming
+
+]²mk
+noillim[
+rebmetpeS
+ni
+aera
+eci-aes
+citcrA
+
+Trend: - 3 m2 of sea ice per ton of CO 2
+sea-ice area from
+ship/airplane
+satellite
+Fig. 4. – Relationship between anthropogenic CO emissions and Arctic sea-ice area in
+2
+September.
+multitude of scientific publications that have again and again shown that no other fac-
+tor that influences the climate of our planet has changed sufficiently much over the past
+decades to explain the ongoing changes, including in particular natural fluctuations of the
+climate system. For example, if we force a climate model, which is a computer program
+representing our knowledge of atmosphere, ocean and ice, with the observed changes in
+natural drivers such as solar activity and volcanic eruptions, every single existing climate
+model will provide an evolution of past climate with no distinguishable warming over the
+past few decades. It is not possible to simulate the ongoing warming in any model repre-
+sentation of our physical understanding of the climate system if we only consider natural
+forcing. In contrast, if we add the observed change in atmospheric CO composition to
+2
+such simulation, the simulated climate evolution is compatible with the observational
+record. Because we know from budget analyses of fossil-fuel burning and from isotopic
+analyses of atmospheric CO that humans have caused the observed increase in atmo-
+2
+spheric CO concentration, we can infer that “it is extremely likely that human influence
+2
+has been the dominant cause of the observed warming since the mid-20th century” [5].
+Many other lines of evidence exist to show the clear contribution of human activities
+to the ongoing changes. For example, there is a clear correlation between observed Arctic
+sea-ice area and anthropogenic CO emissions (fig. 4). A similar correlation is found in
+2
+all climate-model simulations, suggesting an underlying physical causality causing the
+linear relationship. Such causality can indeed be derived from the energy balance at
+the sea-ice edge that moves northward as the atmospheric longwave radiation increases
+
+until the northward decrease in solar shortwave radiation has compensated for the addi-
+tional warming from the long-wave radiation. Because we have three independent lines
+of evidence, namely observational record, climate model simulations, and conceptual un-
+derstanding, it is clear that the identified linear relationship is not merely a correlation,
+but indeed a consequence of the causal relationship of anthropogenic CO emissions and
+2
+Arctic sea-ice loss. The slope of the linear relationship suggests that about 3 m2 of Arctic
+sea ice in September are lost for each ton of CO emissions from anthropogenic activities.
+2
+Hence, depending on our individual carbon foot print of usually between 5 and 10 tons
+per year, each of us melts some 15 to 30 m2 of Arctic sea ice every single year. In addition,
+this very simple relationship also holds an additional truth: The melting of Arctic sea ice,
+and the ongoing warming of our planet, will only stop if net CO emissions are decreased
+2
+to zero. As long as net CO emissions are above zero, the planet will become warmer
+2
+and warmer. This then, finally, allows for a short glimpse into the possible future, which
+will form the final section of this short overview.
+5. – A future of possibilities
+The fact that we humans are the main driver of today’s climate change implies that
+also the future evolution of the climate system of the Earth will largely depend on our
+decisions. Currently, humans emit about 40 billion tons of CO into the atmosphere
+2
+every single year. About half of these 40 Gt stay in the atmosphere, about a quarter is
+taken up by the oceans causing ocean acidification, and the final quarter is taken up by
+the global ecosystem and land masses. Other anthropogenic forcers of the climate system
+are of secondary importance, including the cooling impact of aerosols (e.g., soot) and the
+additional warming impact of other greenhouse gases such as methane. Because of this
+secondary importance, because of the relatively short time scales involved, and because
+of a largely linear relationship between global temperature evolution and CO emissions,
+2
+the concept of carbon budgets has been widely accepted as a measure of expected future
+warming levels. These carbon budgets give the amount of carbon dioxide that may still
+be emitted to keep global warming below a certain level by the end of this century.
+Regarding the specific levels of global warming, in particular the thresholds of 1.5 ◦C
+and 2.0 ◦C are of importance, because the internationally binding Paris agreement calls
+for the world’s countries to limit the negative impact of global warming by “holding the
+increase in the global average temperature to well below 2 ◦C above pre-industrial levels
+and pursuing efforts to limit the temperature increase to 1.5 ◦C above pre-industrial
+levels, recognising that this would significantly reduce the risks and impacts of climate
+change”. Currently, the global average temperature is about 1.1 ◦C above pre-industrial
+levels, implying roughly a factor two in the remaining warming allowable for the 2.0 ◦C
+target compared to the 1.5 ◦C target.
+While the difference between these two warming levels looks small, there is a qualita-
+tive difference in the likely response of the Earth System to the two warming levels [6].
+For example, if global warming remains below 1.5 ◦C, the Arctic Ocean will remain sea-
+ice covered all year round in the vast majority of years. In contrast, for 2.0 ◦C global
+warming, the Arctic Ocean will usually be sea-ice free in summer. More importantly,
+
+however, at 1.5 ◦C global warming, the Greenland ice sheet will most likely remain stable,
+and its potential melting is reversible if temperature were to decrease again. At 2.0 ◦C
+global warming, in contrast, chances are large that the Greenland ice sheet will become
+unstable, and its complete melting can not be stopped any more, even if temperature
+were to decrease again. Such complete melting of the Greenland ice sheet would raise
+global sea levels by about 7 metres over the next centuries and millennia. The irre-
+versibility of the ice loss is primarily related to the fact that melting of the Greenland
+ice sheets at its surface lowers the elevation of the ice sheet. Hence, the surface is ex-
+posed to the warmer temperature of lower-lying air masses, similar to the warming one
+experiences when walking down a mountain. These warmer air masses will then cause
+increased melting, and the surface elevation is decreased further.
+Similarly, chances are substantial that for 2.0 ◦C global warming parts of the Antarctic
+ice sheet become unstable and their complete melting can no longer be stopped either.
+Again, this would cause several metres of unavoidable sea-level rise over time scales of
+centuries and millennia. The irreversible melting of the Antarctic ice sheet is related to
+the slow outflow of the ice sheet into the ocean. The amount of ice lost by this outflow is
+closely related to the thickness of the ice sheet at the so-called grounding line, i.e. at the
+line where the ice sheet becomes free-floating in the ocean. Crucial for the instability is
+the fact that the bottom topography of the land masses underneath the ice shelf slopes
+downward towards the South pole in many regions. Hence, if the ocean warms, causing
+ice melt at the grounding line and thus a retreat of the grounding line towards the
+South pole, the ground lowers further and further, causing more and more ice loss. This
+increased ice loss than causes a further retreat of the grounding line towards the pole,
+and thus additional, irreversible ice loss.
+These are but some of the reasons why the Paris agreement calls the world’s countries
+to pursue efforts to keep global warming below 1.5 ◦C. To reach this aim with a likelihood
+of 67%, current best estimates of the remaining carbon budget lie at around 340 Gt CO
+2
+additional emissions from 1st January 2020. At current emission levels of around 40 Gt
+CO per year, this budget will be used up in about 8 years. Hence, to limit global
+2
+warming to below 1.5 ◦C, the global CO emissions must decrease extremely quickly.
+2
+How this can potentially be achieved in the energy sectors, and which difficulties one
+faces in doing so, is discussed in some of the other chapters of this volume. In addition,
+almost all trajectories that have been suggested to allow for a limitation of global warming
+to below 1.5 ◦C at some point imply negative emissions. Hence, CO must be removed
+2
+from the atmosphere and stored somewhere to reverse a possible overshoot of future
+CO emissions above the limit of 340 Gt. Such CO removal could for example occur by
+2 2
+having quickly growing plants converting CO from the atmosphere into biomass. By
+2
+burning this biomass, one gains heat and pure CO which then must be stored. This is
+2
+referred to as “bio-energy with carbon capture and storage” (BECCS). However, current
+estimates of the required land area that would be needed to remove the envisioned 10 Gt
+of CO from the atmosphere per year are about a third the size of Europe.
+2
+In summary, it is clear that the climate of our planet is currently changing at a
+very rapid rate. It is clear that this warming will cause a climate change of a scale
+
+never experienced by human civilisation. It is clear that human influence has been the
+dominant cause of the observed warming. And it is clear that the climate will continue
+to warm as long as additional net CO is added to the atmosphere. It is, however, much
+2
+less clear how quickly we humans will be able to reduce net-CO emissions to near zero.
+2
+Some of the challenges in this respect, and some of the possible ways forward are laid
+out in other contributions to this volume.
+REFERENCES
+[1] Feulner G., “The faint young Sun problem”, Rev. Geophys., 50 (2012) RG2006, doi:
+10.1029/2011RG000375.
+[2] Hoffman P. F. et al., “Snowball earth climate dynamics and cryogenian geology-
+geobiology”, Sci. Adv., 3 (2017) e1600983, doi: 10.1126/sciadv.1600983.
+[3] Royer D. L., “CO -forced climate thresholds during the phanerozoic”, Geochim.
+2
+Cosmochim. Acta, 70 (2006) 5665.
+[4] IPCC, Special Report on the Ocean and Cryosphere (SROCC) (IPCC) 2019.
+[5] Stocker T. et al. (Editors), Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental
+Panel on Climate Change (Cambridge University Press, Cambridge, UK and New York,
+NY, USA) 2013.
+[6] IPCC, Global warming of 1.5 ◦C (IPCC) 2018.
+11
